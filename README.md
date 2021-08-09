@@ -7,7 +7,7 @@
 - 💬 Ask me about programming
 - 📫 How to reach me: here
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am also a musitian 
+- ⚡ Fun fact: I am also a musician 
 
 <!--
 **emersondemetrio/emersondemetrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
