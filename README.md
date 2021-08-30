@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I like to create apps =]
-- 🔭 I’m currently looking for a _good_ job :)
+<!-- - 🔭 Senior Full Stack Developer at -->
 - 🌱 I’m currently learning more about myself
 - 👯 I’m looking to collaborate on anything I could help
 - 💬 Ask me about programming
