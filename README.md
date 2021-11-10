@@ -8,3 +8,4 @@
 - 📫 How to reach me: emer.demetrio@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am also a musician 
+- I am also: @emersondemetriogb, @emersonscytech and [emersondemetrio](https://gitlab.com/emersondemetrio)
