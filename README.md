@@ -11,7 +11,7 @@
 
 I also have this other profiles: 
 
-- [@emersondemetriogb (professional)](https://github.com/emersondemetriogb)
+- [@emersondemetriogb (inactive)](https://github.com/emersondemetriogb)
 - [@emersonscytech (inactive) ](https://github.com/emersonscytech)
 - [@emersondemetrio (gitlab, inactive)](https://gitlab.com/emersondemetrio)
 - [@emersondemetriocc (gitlab, inactive)](https://gitlab.com/emersondemetriocc)
