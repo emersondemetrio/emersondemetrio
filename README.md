@@ -9,7 +9,7 @@
 - 😄  Pronouns: he/him
 - ⚡  Fun fact: I am also a musician 
 
-I also have this other profiles: 
+I also have these other profiles: 
 
 - [@emersondemetriogb (inactive)](https://github.com/emersondemetriogb)
 - [@emersonscytech (inactive) ](https://github.com/emersonscytech)
